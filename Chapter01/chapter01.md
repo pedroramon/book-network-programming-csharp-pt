@@ -1,17 +1,18 @@
 ---
 order: 19
 icon: stack
-label: Chap 1 - Overview of Network Programming
+label: Chap 1 - Visão Geral sobre Programação de Redes
 meta:
-title: "Overview of Network Programming"
+title: "Visão Geral sobre Programação de Redes"
 ---
 # 1
 
 ![](./Images/Chap01-OverviewNetworkProg.png)
 
-# Overview of Network Programming
+# Visão Geral sobre Programação de Redes
 
-As we embark on the journey through the intricate landscape of network programming within the realm of C#, let us pause to appreciate the robust foundation and tools at our disposal. Network programming is the cornerstone of the interconnected world we navigate daily, from browsing web pages and sending emails to streaming multimedia and beyond. In this chapter, "Overview of Network Programming," we aim to demystify the complexities and equip you with the fundamental knowledge and skills necessary to harness the full potential of network applications in C#.
+Enquanto embarcamos na jornada através do complexo caminho da programação de redes dentro do domínio do C#, vamos fazer uma pausa e apreciar a base robusta de ferramentas à nossa disposição. Programação de redes e a pedra angular do mundo interconectado que navegamos diariamente, seja acessar sites e enviar emails ou até mesmo consumir conteúdos via streaming e além. Nesse capítulo, "Visão Geral sobre Programação de Redes", nós pretendemos desmistificar essa complexidade e munir você com os conhecimentos fundamentais e habilidades necessárias para aproveitar todo o potencial das aplicações de rede no C#.
+
 
 We introduce you to the core concepts of network programming, guiding you through the essential terminology and principles that form the bedrock of all networked systems. As we delve into the myriad of network protocols, you will gain insight into the conventions governing communication across disparate devices and applications, understanding how these invisible pathways facilitate seamless data exchange.
 
